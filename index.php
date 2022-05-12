@@ -1,7 +1,7 @@
 <?php
 
 $arr = array();
-$arr_size = 100000;
+$arr_size = 90000;
 
 for ($i=1;$i<=$arr_size;$i++) {
 $arr[] = $i;
